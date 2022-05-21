@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "159133515504",
+    "firebase_url": "https://arqa-master-default-rtdb.firebaseio.com",
+    "project_id": "arqa-master",
+    "storage_bucket": "arqa-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159133515504:android:e55ab5f4bed319700e0c35",
+        "android_client_info": {
+          "package_name": "com.example.gam3a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159133515504-78dsucl8r9ehh6b48t1n9soe51cmjiis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmozIynINBFnBb33-xTqM6a1JIgXH5NBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159133515504-78dsucl8r9ehh6b48t1n9soe51cmjiis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
